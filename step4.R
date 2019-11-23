@@ -1,3 +1,4 @@
+# Authors: William John Fitzgerald & Tomas William Fitzgerald 
 # main changepoint detection algorithm
 # single changepoint model
 step4 <- function(d) {
